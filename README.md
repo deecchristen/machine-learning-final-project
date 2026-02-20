@@ -1,2 +1,3 @@
 # machine-learning-final-project
 My final project for introduction to machine learning.
+I decided to look at a phishing websites dataset I found on UCI Machine Learning Repository.  I wanted to use ADaBoost and Random Forests algorithms because I wanted more practice with these. The dataset was already numerical. It did have quite a few duplicates. I did not remove them because I couldn't tell if they were true duplicates or just two websites that were similar when they collected the information.  The random forests algorithm did have a higher accuracy score compared to the ADaBoost algorithm. 
